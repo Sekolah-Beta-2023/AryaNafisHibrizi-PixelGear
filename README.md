@@ -1,4 +1,5 @@
-# project-arya-dev
+# project-akhir-arya
+PixelGear adalah website yang melayani penyewaan gear Photography & Videography 
 
 ## Build Setup
 
